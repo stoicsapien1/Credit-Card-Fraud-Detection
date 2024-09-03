@@ -1,5 +1,7 @@
 # Credit Fraud Detection
 
+![image](https://github.com/user-attachments/assets/3c400247-2000-4a14-ae35-aed7c8f7eeff)
+
 ## Project Overview
 This project focuses on detecting fraudulent transactions in a credit card dataset. The dataset is highly imbalanced, with fraudulent transactions being a small percentage of the total dataset. The objective is to build a model that can accurately identify fraudulent transactions despite the imbalance.
 
